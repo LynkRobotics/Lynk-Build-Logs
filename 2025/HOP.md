@@ -4,7 +4,10 @@
 
 **Insert Photo**
 
-
+<div>
+<div align="center">
+<h2><span style="color:#bf5700">Ranked 8th</span></h2>
+</div>
 <div>
 <div align="center">
 <h2><span style="color:#bf5700">Eliminated in Match 10</span></h2>
