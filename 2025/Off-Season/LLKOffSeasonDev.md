@@ -17,11 +17,11 @@ In 2024, we had 21k different visits to the LLK from various places, which is ab
 The LLK is looking for some more content to add, whether that be workshops, technical binders, code bases, or anything! Submit anything and everything [here](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge/issues/new/choose).
 
 <div>
-<div align="center">
+<div align="left">
 <h3><span style="color:#bf5700">2025 Contributers So Far</span></h3>
 </div>
 
-<div align="center">
+<div align="left">
 @shuki - Regular Contributer 
 <br>
 @Razi.ela - Regular Contributer
@@ -30,6 +30,14 @@ The LLK is looking for some more content to add, whether that be workshops, tech
 <br>
 @cat_food_sounds - First Time Contributer
 </div>
+
+<div>
+<div align="left">
+<h2><span style="color:#bf5700">Resources</span></h2>
+</div>
+
+[![Static Badge](https://img.shields.io/badge/Lynk_Library_of_knowledge-LLK?style=for-the-badge&label=LLK&labelColor=Bf5700&color=000000)](https://docs.lynkrobotics.org/)
+[![Static Badge](https://img.shields.io/badge/Content_Submission-LLK?style=for-the-badge&label=LLK&labelColor=Bf5700&color=000000)](https://github.com/LynkRobotics/Lynk-Library-of-Knowledge/issues/new/choose)
 
 <hr>
 
