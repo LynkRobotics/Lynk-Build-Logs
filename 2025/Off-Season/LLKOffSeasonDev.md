@@ -10,7 +10,7 @@
 
 Hello, I thought I would provide an update on the LLK since it has been a while since the last one.
 
-The LLK was rewritten from the ground up this year. Nothing really changes the site's navigation; it is just simplified, so maintaining this project long-term is easy.
+The LLK was rewritten from the ground up this year. Nothing changes the site's navigation; it is just simplified, so maintaining this project long-term is easy. That also includes a critical change: documents on the LLK are stored in our team drive, and they will not link to other teams' websites. This is because links have died when teams rewrote or reorganized their websites, so from now on, all documents will be stored in our drive.
 
 In 2024, we had 21k different visits to the LLK from various places, which is about 58 visits a day. That is insane, and I am glad people enjoy this tool. So far in 2025, we have ~9k visits! 
 
